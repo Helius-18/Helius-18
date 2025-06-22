@@ -1,4 +1,4 @@
-# 💼 Bhanu Mali – Developer Portfolio
+# 💼 Bhanu Mali – Developer
 
 Welcome to my [portfolio](https://helius-18.github.io)!  
 Here, you'll find my projects, skills, and experiments as a full stack developer working at the intersection of web development and AI.
