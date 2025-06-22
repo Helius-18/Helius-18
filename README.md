@@ -19,7 +19,7 @@ I'm a Full Stack Developer with 2+ years of experience, currently working at **R
 
 ## 🛠 Featured Projects
 
-### [ChatBot RAG Model with MCP](https://github.com/Helius-18/ChatBot-RAG-MCP)  
+### [ChatBot RAG Model with MCP](https://github.com/Helius-18/ChatBot_RAG_Model_With_Prompt_MCP) 
 Conversational AI agent using RAG (Retrieval-Augmented Generation) and custom Model Context Protocols.
 
 ### [Aniverse – Anime Streaming Platform](https://github.com/Helius-18/aniverse)  
